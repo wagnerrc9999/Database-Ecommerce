@@ -1,0 +1,29 @@
+Projeto para Banco de Dados de uma Loja Virtual Simples
+
+os Scrips do Mysql Foi gerado no MySQL Workbech e do postgresql foi adaptado para
+Ser rodado no postgresql versão 13.
+
+modelagem de dados serve para que os profissionais tenha uma visão mais ampla do
+processo alem de ajudar o profissional a entender melhor as tabelas suas lógicas e como
+elas se relaciona com outras tabelas.
+
+Temos no caso
+
+8 tabelas principais
+
+Tab_Cliente
+Tab_PjCliente
+Tab_Venda
+Tab_Estoque
+Tab_Pedido
+Tab_Produto
+Tab_Fornecedor
+Tab_Servico
+
+Podemos também adicionar mais uma tabela no futuro ou criar uma viws Chamada
+de Carrinho.
+
+para executar os comandos é preciso ter um pouco de conhecimento em sql e Linux,
+no caso esse projeot é feito inteiramente em Linux.
+
+
